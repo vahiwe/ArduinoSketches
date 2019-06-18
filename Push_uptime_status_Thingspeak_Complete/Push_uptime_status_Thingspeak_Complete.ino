@@ -363,5 +363,5 @@ void loop() {
   //    }
 
   // Wait 20 seconds to uodate the channel again
-  delay(10000);
+  delay(13000);
 }
